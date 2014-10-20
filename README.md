@@ -5,9 +5,9 @@ oandapy is a python wrapper for OANDA's REST API.
 Install
 ======
 
-python-requests is required. Using pip:
+Just use pip (while in repository directory):
 
-    $ pip install requests
+    $ pip install -e .
 
 Usage
 ======
